@@ -31,7 +31,6 @@ colorama==0.4.4
 colorclass==2.2.2
 coloredlogs==15.0.1
 colorhash==1.2.1
-command-not-found==0.3
 confluent-kafka==2.3.0
 cryptography==42.0.3
 cupshelpers==1.0
