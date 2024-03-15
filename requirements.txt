@@ -37,7 +37,6 @@ cycler==0.12.1
 dask==2022.10.2
 dataclasses-json==0.6.4
 dbus-python==1.2.18
-defer==1.0.6
 distlib==0.3.4
 distro==1.9.0
 distro-info==1.1+ubuntu0.1
